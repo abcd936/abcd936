@@ -1,16 +1,11 @@
 <!doctype html>
-  <html> 
-  <head>
-<tittle>INTRODUTION TO HTML</tittle>
-  <body>
-<h1><b><u>HELLO HTML</u></b></h>
-  <BR>
-<i>HTML is a programming language use to create webpages<i>
-  <BR>
-<P>collection of webpages make a website</P>
-  <BR>
-<P>websites are run through web browsers</P> 
-  <hr>
-  </body> 
-  </html> 
-   
+<html>
+<head>
+</head>
+<tittle>HEADIG TAGS</tittle>
+<body>
+<h1>THIS IS A HEDING 1 </H1>
+<H2>THIS IS A HEADING 2 </H2>
+<!---this is a comment tags ---!>
+</body> 
+</html> 
